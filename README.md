@@ -12,7 +12,7 @@ A web server is now serving this test app at your.ip.goes.here:9001. For the giv
 
 4) user@machine:```<DIRECTORY>```$ ./node_modules/.bin/gulp dist:server
 
-First, gulp-jspm transpiles paper.js and Application.js into a bundle file and serves them on your.ip.goes.here:9001. (Wait until you see 'dist:server' before accessing the page.) If you open your browser's console this time you will see an error message: Uncaught Module 2 not found.
+First, gulp-jspm transpiles paper.js and Application.js into a bundle file and serves them on your.ip.goes.here:9001. (Wait until you see 'dist:server' before accessing the page.) If you open your browser's console this time you will see an error message: Uncaught Module 2 not present.
 
 NOTE: If you did steps 1-4 and don't want to repull and do the steps again to test against paper.js 0.9.25, just do the following:
 
