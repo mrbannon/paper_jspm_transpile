@@ -20,4 +20,4 @@ NOTE: If you did steps 1-4 and don't want to repull and do the steps again to te
 
 6) user@machine:```<DIRECTORY>```$ ./node_modules/.bin/jspm install npm:paper@0.9.25
 
-Now, rerun your gulp commands.
+Now, rerun your gulp commands. With paper.js 0.9.25 there is no error in the transpile.
